@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:49.288493+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "2d1015d2c43e9396c0fe914addd5327f25453acd85c1980c83eb4371b906d370",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0d3de6efa22f16e05196d8424df7028ff6ff69f7373c0a9ceb352a69639fa47d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "02547b5ee6a7e43e77215aa131a7088f8478d31ca111dea893d6907e8bdb50a1",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "6c962c225fb53d6d66c67a3ae57b6c0c28c597ce39ee5eb60a7de05344933fdf",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/z0701-balearic-house-chords-opening-combined.mid",
+      "bytes": 6038,
+      "sha256": "bf3565ff7f021713684fa42583a0f12bcecb59a26d43bc786e37a4711e611052",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d871d0e9dae8f2f7ae3364bc130fa81187dcd7cbc12a42b22517f4a2fe937ee8",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8e9c996c91c9acac8adae3440734cdf1eb09983dbaab919e5811d5ba6b605acd",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "264bb17cab34bee79d4bdccd7fe7f10a43ac723932b729a7ab66e8e3f7c308fa",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "84e9e20083dc6eb9fa7aaa740f309dccf63232785fa499222be3b97d65f96949",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9ac716adbf4f7de451bd617b4f66aebc5d91e939e882aad7be485fe47e381eda",
+      "errors": []
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/z0702-balearic-house-chords-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "fa652741de512a0fe16268fc5704e5d8513fe39cc75b650209dc62e801b847b7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3e8abd4d95c310100123b24ff9ce823a5c5974e2911199089843c1d66088da47",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0e3262d8649ee54d81fa83e68e62e9732f6947894d56d93a47571afa87bdcf4",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "460ef76bf88eda030b9769f891d71eadf2d7f9f75c3fcad355a1b2f2b9fb23f0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "271c24a315b3ab337249e83804abf31b5b21bd8b3bc7f028ad308f666f487620",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29",
+      "errors": []
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/z0703-balearic-house-chords-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "7a23a0999518eb408e6875bc66919394caf90e913abadeef25ed3e1140804850",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "4fe9b755556b5fc4378c3f62b0f4887920001bcac9415a9e6e0c783d8f24f937",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cadabdf5024b097cf4df4f1daa83c21b7e0ae2ae909f32e4a6e6037cc87712ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "16f9dad91b0a9f1c97b091b4d54f99ae92c805e9899154a06ae1fea4282f12ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "a398a22c73db49a35fdde1769da48c68da4479566bc4332e44298869a382d4f6",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/z0704-balearic-house-chords-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "e167c5d5bd7b497d348fe8b5efc50bbf597c8072f1efb7c1f7a1d16a6f10d3c3",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

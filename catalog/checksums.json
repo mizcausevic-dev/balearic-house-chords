@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1923,
+      "sha256": "81b8dede942d2f7c532d99fb6463062a7547e9dfcbdc67fa7edbd690fc9efa31"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 369123,
+      "sha256": "5e0dd81c1149b17220b366a4fc41281ca26f8220d67bf3f5957ebebb0ea46a41"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2957371,
+      "sha256": "1f743aad46841ced19d78c28ba78c32b38755263cb2eea1f95bfa42294893a7c"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 295,
+      "sha256": "76e51206373f801d9666877d6444dc4feefa5411f4b79a903f969f7b78f67df3"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "b29fa85582e5f98061d915fce83d6f4577041c1c83b1a0f0d969a795f0816e42"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 380242,
+      "sha256": "ca750f81636565d7a05cee3dc1d0a32561b976fd64d76afb63cf009b96264932"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 742,
+      "sha256": "92bcb0b47dd2499aa6ca85f777315a3c615f6294a40826935f223100f43884db"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 742,
+      "sha256": "92bcb0b47dd2499aa6ca85f777315a3c615f6294a40826935f223100f43884db"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 2204,
+      "sha256": "a7a7d83744a74bceb764a354ea3a6df7e97f0edbb442e86982b03981240b51bb"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 24758,
+      "sha256": "7bf046078d05bbaf3c1abe494739e66cbcd29749b12616ddfeb429947028e670"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103681,
+      "sha256": "6e43687703c965d05f50b52b6534e35bb110ac7991c1cb0945206eb3b7a6607b"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2476,
+      "sha256": "fa5cff222211acbcd8e2d196c79077ecf87c15d563ca813a13fe64a4c346b11b"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "d1d9fab08a0624559714205a574aff59a5c1340c85a22fd085cd5ab51a6e55f2"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1186,
+      "sha256": "6efda0731a452595cfcb8b4eb5938a9eeac35d9911b51293b71d4aa3826c175b"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 381,
+      "sha256": "e0de64cfa00072d1caf7b873f794ca4a20897cc0390aff997a9890a16f5a6e38"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z0701-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "74fe8c93a293d63e02b4e56f1bde2d47056a3e511b63bb6c91be7fc19097c0e3"
+    },
+    {
+      "path": "clips/z0701-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "be305a2384faddf737aeb8bd3fff11faf76c87d42f7379ce9c0c69e3403dfb36"
+    },
+    {
+      "path": "clips/z0701-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "9790631c35329bb6e935f43a1ba6b66b78e4bfdc7c1bef88af31735bed51bcd3"
+    },
+    {
+      "path": "clips/z0701-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "0d7c25d394d3d4a1f97073c05f4a85f9cb569f616b2caad1f60f1b7a706a9399"
+    },
+    {
+      "path": "clips/z0702-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "dc0aee5dd5d926843e8f5ea32d3c9326d902ba76fd6cb75c4c8c922b8ac8e9b3"
+    },
+    {
+      "path": "clips/z0702-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "8cc55f32c0b23325fd2a8ff363fab2b85d233a5ad49e2154ab47a56448063024"
+    },
+    {
+      "path": "clips/z0702-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "3d41157199e20f5155e65979b283ef26c800cfa3747912d1d873977c9c55d012"
+    },
+    {
+      "path": "clips/z0702-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "06923996b75e317d993ea9384a4ee0c6edb0dea4e60324655df02521b5528b13"
+    },
+    {
+      "path": "clips/z0703-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "61a670b027f8d5efcb4bfd0221ea54e1287d799b91d1b919c408ac3a88a03f6e"
+    },
+    {
+      "path": "clips/z0703-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "747525b1cebaa662f53ddc4fc7a82d87f038a1bb5335ae647ad1a12abdd82712"
+    },
+    {
+      "path": "clips/z0703-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "a3b90dec780cd9cdcc6c52adfefd8558a290e01a5a25a12a9d5f7f48e0e5d227"
+    },
+    {
+      "path": "clips/z0703-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "e6b6a5f83a1727da6399b069248806590c73e9a8a4f78a5e97a9b66e639d58ca"
+    },
+    {
+      "path": "clips/z0704-chord-progression-01.mid",
+      "bytes": 271,
+      "sha256": "336d6d88d468a2f1f7e8edad105d50e54d771aa9a2cf6d44b0944f86532e09bd"
+    },
+    {
+      "path": "clips/z0704-chord-progression-02.mid",
+      "bytes": 271,
+      "sha256": "227c0dc988651ff45a896ce8d77b30ceb0ef7a6896d8c6a608a280a75438d9b3"
+    },
+    {
+      "path": "clips/z0704-chord-progression-03.mid",
+      "bytes": 172,
+      "sha256": "973c7398f17f645240cf4326d436bf46f5ef81ff4175ba8bbac47577a659d469"
+    },
+    {
+      "path": "clips/z0704-chord-progression-04.mid",
+      "bytes": 172,
+      "sha256": "ccc741b9976c756270b6ae23a088afd1b4f6fe3d8e2ff00e172753d1be2101fa"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 427,
+      "sha256": "58a3bed59f5d4e73dba5593c26a3ae02c64f410bbeb222d7a09b7d44f3249aff"
+    },
+    {
+      "path": "downloads/balearic-house-chords-midi.zip",
+      "bytes": 32484,
+      "sha256": "438922a1c6ec33224643ce3ba5be3772aed7e549daf82a14ac9ea6e6ea8354ce"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2872,
+      "sha256": "770e7324e55cebd8268977df999102113371486fa94280c7f3fa605fc2213e37"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 33670,
+      "sha256": "c4a37e87510d012e07790bbac245d56d19429a382de036c60fa067fe69d10638"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 327882,
+      "sha256": "0e1ee7d8d4715049d05bbe0ca71a89ec25e025d0a07272f7dcfb4bcc24042194"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1136419,
+      "sha256": "b2c065a0cc35c2bfc074b1abb5b2102a49de242414515a9db24e727425f25567"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1218,
+      "sha256": "1c776da53aa936cd1d7766d8832538683e3c65b6d7183cf0beaef9d74e9c9f9f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9948,
+      "sha256": "900c7f892f3d62de2de4df5c6988e9e088b3f009456b5b2f1d03c2123e87101e"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "2d1015d2c43e9396c0fe914addd5327f25453acd85c1980c83eb4371b906d370"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0d3de6efa22f16e05196d8424df7028ff6ff69f7373c0a9ceb352a69639fa47d"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "02547b5ee6a7e43e77215aa131a7088f8478d31ca111dea893d6907e8bdb50a1"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "6c962c225fb53d6d66c67a3ae57b6c0c28c597ce39ee5eb60a7de05344933fdf"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2"
+    },
+    {
+      "path": "midi/z0701-balearic-house-chords-opening/z0701-balearic-house-chords-opening-combined.mid",
+      "bytes": 6038,
+      "sha256": "bf3565ff7f021713684fa42583a0f12bcecb59a26d43bc786e37a4711e611052"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d871d0e9dae8f2f7ae3364bc130fa81187dcd7cbc12a42b22517f4a2fe937ee8"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8e9c996c91c9acac8adae3440734cdf1eb09983dbaab919e5811d5ba6b605acd"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "264bb17cab34bee79d4bdccd7fe7f10a43ac723932b729a7ab66e8e3f7c308fa"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "84e9e20083dc6eb9fa7aaa740f309dccf63232785fa499222be3b97d65f96949"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9ac716adbf4f7de451bd617b4f66aebc5d91e939e882aad7be485fe47e381eda"
+    },
+    {
+      "path": "midi/z0702-balearic-house-chords-variation/z0702-balearic-house-chords-variation-combined.mid",
+      "bytes": 6037,
+      "sha256": "fa652741de512a0fe16268fc5704e5d8513fe39cc75b650209dc62e801b847b7"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "3e8abd4d95c310100123b24ff9ce823a5c5974e2911199089843c1d66088da47"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e0e3262d8649ee54d81fa83e68e62e9732f6947894d56d93a47571afa87bdcf4"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "460ef76bf88eda030b9769f891d71eadf2d7f9f75c3fcad355a1b2f2b9fb23f0"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "271c24a315b3ab337249e83804abf31b5b21bd8b3bc7f028ad308f666f487620"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "153e33bde99c775d04ee09b61b1c08ebf1c3525445e8adcb53ca7997bba82e29"
+    },
+    {
+      "path": "midi/z0703-balearic-house-chords-contrast/z0703-balearic-house-chords-contrast-combined.mid",
+      "bytes": 6003,
+      "sha256": "7a23a0999518eb408e6875bc66919394caf90e913abadeef25ed3e1140804850"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "4fe9b755556b5fc4378c3f62b0f4887920001bcac9415a9e6e0c783d8f24f937"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "cadabdf5024b097cf4df4f1daa83c21b7e0ae2ae909f32e4a6e6037cc87712ae"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "16f9dad91b0a9f1c97b091b4d54f99ae92c805e9899154a06ae1fea4282f12ec"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "a398a22c73db49a35fdde1769da48c68da4479566bc4332e44298869a382d4f6"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7"
+    },
+    {
+      "path": "midi/z0704-balearic-house-chords-return/z0704-balearic-house-chords-return-combined.mid",
+      "bytes": 6003,
+      "sha256": "e167c5d5bd7b497d348fe8b5efc50bbf597c8072f1efb7c1f7a1d16a6f10d3c3"
+    },
+    {
+      "path": "preview/balearic-house-chords-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "be997d29a83c070617cb1164315a96712a90643c2b5da66cf400e7ff7b3fee82"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1173,
+      "sha256": "c24c947919d27204a49b2db1326302b06bf0f00d4889fe1b5666e67d768b2ba8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3964,
+      "sha256": "80195854fb86298929cce77b4c9536068fa2138bc5dd1832493c616e07319321"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 224,
+      "sha256": "23e6b3dfb73d082cfc460c932f9adba7c94ba08c9af94b83adf884933088b152"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 387138,
+      "sha256": "3f9485e4fce7cdead9a717d98e5102bbb86a9b5fe5f6504a4a74752721acef95"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 345617,
+      "sha256": "081aab0de5064877b295e71e32b1609c6e54e38fbba9729c6b0a8500360ddfa7"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 334302,
+      "sha256": "63c7b4d9cae404b691256445523a03d77016acf2a4a00ef671d1d8cf29961875"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 186,
+      "sha256": "aa4b53cafefba4b53dea1de65ec64d67da86640fe8ce080edc9bbffda0dea41f"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13315,
+      "sha256": "19a1c23525d9eecb51162b03aa1883ff5d8a5e63433d17b0b2fd990cfa1af91a"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

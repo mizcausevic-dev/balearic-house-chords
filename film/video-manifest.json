@@ -1,0 +1,26 @@
+{
+  "title": "Balearic House Chords",
+  "study": "z0701",
+  "bpm": 122,
+  "source_audio": "preview/balearic-house-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "be997d29a83c070617cb1164315a96712a90643c2b5da66cf400e7ff7b3fee82",
+  "source_midi": "midi/z0701-balearic-house-chords-opening/z0701-balearic-house-chords-opening-combined.mid",
+  "source_midi_sha256": "bf3565ff7f021713684fa42583a0f12bcecb59a26d43bc786e37a4711e611052",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6e43687703c965d05f50b52b6534e35bb110ac7991c1cb0945206eb3b7a6607b",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5e0dd81c1149b17220b366a4fc41281ca26f8220d67bf3f5957ebebb0ea46a41",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b2c065a0cc35c2bfc074b1abb5b2102a49de242414515a9db24e727425f25567",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
