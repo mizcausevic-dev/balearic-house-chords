@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/balearic-house-chords-midi.zip",
-      "bytes": 32484,
-      "sha256": "438922a1c6ec33224643ce3ba5be3772aed7e549daf82a14ac9ea6e6ea8354ce"
+      "bytes": 33471,
+      "sha256": "807bcb21adfe6d678785c51982694c61fd35be4bc42acd38852e09b91df67e43"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9948,
-      "sha256": "900c7f892f3d62de2de4df5c6988e9e088b3f009456b5b2f1d03c2123e87101e"
+      "bytes": 10138,
+      "sha256": "e69d5e967f0d7c1cd818d9be877c905b2e66430d2781d4685c8640efc6ebd106"
     },
     {
       "path": "midi/z0701-balearic-house-chords-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "e167c5d5bd7b497d348fe8b5efc50bbf597c8072f1efb7c1f7a1d16a6f10d3c3"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/balearic-house-chords-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "be997d29a83c070617cb1164315a96712a90643c2b5da66cf400e7ff7b3fee82"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3970,
-      "sha256": "b1356f273540100db0bb58d5a7a993d877de1460e69b5db53618e9c3a736424d"
+      "bytes": 4085,
+      "sha256": "40cc18ab668b163f54bc28fc068b8511b4f1c23f2b06d104d48204fdc60fd838"
     },
     {
       "path": "social/instagram/caption.txt",
